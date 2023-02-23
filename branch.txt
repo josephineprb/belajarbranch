@@ -1,3 +1,6 @@
 saya sedang belajar branch conflict.
 
 Mencoba Menambahkan Perubahan Deskripsi 
+
+Mencoba latihan squash and merge
+- [X] Squash 1
