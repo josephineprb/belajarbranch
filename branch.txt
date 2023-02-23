@@ -1,8 +1,9 @@
 saya sedang belajar branch conflict.
 
 Mencoba Menambahkan Perubahan Deskripsi 
-- Mencoba Push request menggunakan fork
+- Mencoba Push Request menggunakan fork
 - Bagaimana melakukan code review pada Github
+- Memulai melakukan ulasan pada setiap perubahan code
 
 Mencoba latihan squash and merge
 - [ ] Squash 1
