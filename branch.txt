@@ -4,4 +4,5 @@ Mencoba Menambahkan Perubahan Deskripsi
 
 Mencoba latihan squash and merge
 - [ ] Squash 1
-- [X] Squash 2
+- [ ] Squash 2
+- [X] Squash 3
