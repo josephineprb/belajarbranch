@@ -3,4 +3,5 @@ saya sedang belajar branch conflict.
 Mencoba Menambahkan Perubahan Deskripsi 
 
 Mencoba latihan squash and merge
-- [X] Squash 1
+- [ ] Squash 1
+- [X] Squash 2
